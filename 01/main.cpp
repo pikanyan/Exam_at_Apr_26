@@ -4,7 +4,7 @@
 
 int main(void)
 {
-	printf("%d\n", 'a');	// 'a' -> 0x61 -> 97
+	printf("%d\n", 'a');	// 'a' -> 0x61 -> 97 this may be good for hacking while exam.
 	printf("%d\n", 0x61);	//		  0x61 -> 97
 	printf("%d\n", 97);		//                97
 
